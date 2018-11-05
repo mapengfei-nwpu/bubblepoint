@@ -1,5 +1,6 @@
 import ctypes
 import os
+import scipy
 import matplotlib.pyplot as matlab
 
 
